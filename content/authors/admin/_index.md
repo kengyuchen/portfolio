@@ -65,6 +65,6 @@ social:
 #email: ""
 ---
 
-Keng-Yu Chen is a master's student in National Taiwan University majoring Computer Science in the Graduate Institute of Electrical Engineering, under the supervision of professor Jiun-Peng Chen and Ho-Lin Chen. Before this, I was an undergraduate student in the Department of Computer Science and Information Engineering in National Taiwan University.
+Keng-Yu Chen is a master's student in National Taiwan University majoring Computer Science in the Graduate Institute of Electrical Engineering, under the supervision of professor Jiun-Peng Chen and Ho-Lin Chen. Before this, he was an undergraduate student in the Department of Computer Science and Information Engineering in National Taiwan University.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
