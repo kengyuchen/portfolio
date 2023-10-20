@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Education
 subtitle:
@@ -22,26 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: Master's Student in Electrical Engineering
+    company: National Taiwan University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    company_logo: National-Taiwan-University
+    location: Taiwan
+    date_start: '2022-09-01'
+    date_end: ''
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Major: Computer Science
+        * Thesis Advisor: Jiun-Peng Chen / Ho-Lin Chen
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: BSc in Computer Science and Information Engineering
+    company: National Taiwan University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    company_logo: National-Taiwan-University
+    location: Taiwan
+    date_start: '2018-09-01'
+    date_end: '2022-06-01'
+    description:
+
+  - title: BSc in Mathematics
+    company: National Taiwan University
+    company_url: ''
+    company_logo: National-Taiwan-University
+    location: Taiwan
+    date_start: '2018-09-01'
+    date_end: '2022-06-01'
+    description:
 
 design:
   columns: '1'

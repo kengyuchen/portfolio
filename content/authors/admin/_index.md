@@ -9,12 +9,12 @@ superuser: true
 role: ''
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
+# organizations:
+# - name: 腾讯
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,10 +26,13 @@ interests:
 
 education:
  courses:
- - course: Master's Student in Electrical Engineering, majoring Computer Science
+ - course: "Master's Student in Electrical Engineering (Major: Computer Science)"
    institution: National Taiwan University
-   year: 2023
- - course: BSc in Computer Science and Mathematics
+   year: 2022
+ - course: BSc in Computer Science and Information Engineering
+   institution: National Taiwan University
+   year: 2022
+ - course: BSc in Mathematics
    institution: National Taiwan University
    year: 2022
 
